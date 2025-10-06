@@ -1,0 +1,18 @@
+body.block-editor-page {
+    background: #050013;
+}
+
+.block-editor-page .edit-post-visual-editor__content-area {
+    font-family: 'Poppins', sans-serif;
+}
+
+.block-editor-page .editor-styles-wrapper {
+    color: #f7f7ff;
+    background: #050013;
+}
+
+.block-editor-page .wp-block-button__link {
+    border-radius: 999px;
+    background-image: linear-gradient(135deg, #00c6ff 0%, #ff5f6d 50%, #f6ff00 100%);
+    color: #050013;
+}
